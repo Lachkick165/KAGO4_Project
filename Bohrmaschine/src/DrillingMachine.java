@@ -1,5 +1,13 @@
 public class DrillingMachine {
-    public static void main(String[] args) {
+
+    private int watt;
+    private String name;
+    private int age;
+    private double price;
+    private boolean broken;
+
+    public class DrillingMachine(){
+
 
     }
 }
